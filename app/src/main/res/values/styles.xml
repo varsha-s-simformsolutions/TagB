@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Widget.AppCompat.EditText.LoginEditText">
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">@dimen/_13ssp</item>
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">@dimen/_33sdp</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:fontFamily">@font/poppins_medium</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:background">@drawable/ic_rectangle</item>
+    </style>
+</resources>

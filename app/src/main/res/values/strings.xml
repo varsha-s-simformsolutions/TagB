@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">TagB</string>
+    <string name="title_app">RunParking</string>
+    <!--Login Screen-->
+    <string name="email_id">Email ID</string>
+    <string name="password">Password</string>
+    <string name="create_an_account">Create an Account</string>
+    <string name="face_id">Face ID</string>
+    <string name="login">Login</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="message_remember_me">Remember me</string>
+    <string name="message_enforcement">Enforcement</string>
+    <string name="message_or">or</string>
+    <string name="message_login_with_biometric">Tap to Login with <b><font color='#ffffff'>Face ID</font></b></string>
+
+    <!-- Validation message -->
+    <string name="message_null_password">Please enter password</string>
+    <string name="message_null_email">Please enter email</string>
+    <string name="message_invalid_email">Please enter valid email</string>
+    <string name="isValid">Is valid</string>
+    <string name="message_login_success">Login Success</string>
+    <string name="message_login_unsuccess">Login Unsuccess</string>
+</resources>

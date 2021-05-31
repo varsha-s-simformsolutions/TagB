@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#077579</color>
+    <color name="colorPrimaryDark">#065d60</color>
+    <color name="colorAccent">#01758f</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="transparent">#00000000</color>
+
+    <color name="divider">#dedede</color>
+    <color name="text_color">#01758f</color>
+    <color name="biometric_body">#33000000</color>
+    <color name="biometric_border">#4cdedede</color>
+</resources>
